@@ -29,7 +29,7 @@ e.g.:
     "containment": "SCP-343 resides in a 6.1\xa0m by 6.1\xa0m (20 ft by..."
     "description": "CP-343 is a male, seemingly race-less, humanoid in...",
     "more_info": {
-        'Addendum #343-1': '"SCP-343, colloquially nicknamed....",
+        "Addendum #343-1": '"SCP-343, colloquially nicknamed....",
 
         ....
     }
