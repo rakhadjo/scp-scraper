@@ -1,5 +1,9 @@
 # SCP Foundation Web Scraper
-This is a web scraper for the SCP Wikidot website for SCP entities. Returns them in a JSON format (see schema below)
+This is a web scraper for the SCP Wikidot website for SCP entities. Returns them in a JSON format (see schema below). To be used in tandem with my personal scp-api but feel free.
+
+### TODO Next:
+- Scrape the authors names and credits as well
+- Add procedure to collect all addendums and documents to be stored in different json
 
 ### Requirements
 - Jupyter Notebook (or Python should be fine)
